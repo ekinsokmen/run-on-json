@@ -1,0 +1,19 @@
+{
+  "name": "run-on-json",
+  "version": "1.0.0",
+  "description": "Execute JavaScript on JSON input.",
+  "main": "run-on-json.js",
+  "bin": {
+    "run-on-json": "./run-on-json.js"
+  },
+  "keywords": [
+    	"json",
+	"javascript",
+	"eval"
+  ],
+  "author": "Ekin Sokmen",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
